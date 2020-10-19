@@ -1,1 +1,1 @@
-# customPlugin
+# customPlugin: Just install the plugin and and create custom post type
