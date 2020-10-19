@@ -1,1 +1,1 @@
-# customPlugin: Just install the plugin and and create custom post type of Vehicle
+# customPlugin: Just install the plugin and and create custom post type
